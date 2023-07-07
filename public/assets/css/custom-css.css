@@ -1,0 +1,11 @@
+@font-face {
+    font-family: IranSans;
+    src: url('../../fonts/IRANSansWeb\(FaNum\).eot');
+    src: url('../../fonts/IRANSansWeb\(FaNum\).ttf');
+    src: url('../../fonts/IRANSansWeb\(FaNum\).woff');
+    src: url('../../fonts/IRANSansWeb\(FaNum\).woff2');
+  }
+  * {
+    font-family: IranSans !important;
+    text-align: right !important;
+  }
